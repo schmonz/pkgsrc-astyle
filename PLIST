@@ -1,0 +1,11 @@
+@comment $NetBSD: PLIST,v 1.7 2025/05/21 18:30:34 schmonz Exp $
+bin/astyle
+man/man1/astyle.1
+share/bash-completion/completions/astyle
+share/doc/astyle/html/astyle.html
+share/doc/astyle/html/install.html
+share/doc/astyle/html/news.html
+share/doc/astyle/html/notes.html
+share/doc/astyle/html/styles.css
+share/fish/vendor_completions.d/astyle.fish
+share/zsh/site-functions/_astyle

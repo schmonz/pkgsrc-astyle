@@ -1,0 +1,6 @@
+$NetBSD: distinfo,v 1.21 2025/05/21 18:30:34 schmonz Exp $
+
+BLAKE2s (astyle-3.6.9.tar.bz2) = 407302720a5945f957fbe1ec344535f84b0e01189c32b6345cb196a56390d3a1
+SHA512 (astyle-3.6.9.tar.bz2) = 241e64e38089bdb1418cc46e2c7a92c0bd4a42fe2b66480274b2f3e29757e86f53a92ec6e40f88a44bf8f1794c8bee9db84ebd60dfe198d58a14bd5530cf2316
+Size (astyle-3.6.9.tar.bz2) = 217232 bytes
+SHA1 (patch-CMakeLists.txt) = 97aedb491f245b9023b8ea0dac188dbd8de0fa54
