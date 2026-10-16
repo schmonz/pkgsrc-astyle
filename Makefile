@@ -1,12 +1,12 @@
-# $NetBSD: Makefile,v 1.28 2025/10/28 16:25:23 schmonz Exp $
+# $NetBSD: Makefile,v 1.30 2026/10/16 21:05:14 schmonz Exp $
 
-DISTNAME=		astyle-3.6.13
+DISTNAME=		astyle-3.6.19
 CATEGORIES=		devel textproc
 MASTER_SITES=		http://www.andre-simon.de/zip/
 EXTRACT_SUFX=		.tar.bz2
 
 MAINTAINER=		schmonz@NetBSD.org
-HOMEPAGE=		http://astyle.sourceforge.net/
+HOMEPAGE=		https://astyle.sourceforge.net/
 COMMENT=		Automatic formatter for C, C++, C++/CLI, C\#, and Java
 LICENSE=		gnu-lgpl-v3
 
